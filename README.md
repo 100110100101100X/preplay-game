@@ -2,7 +2,7 @@
 <p align="center">HTML-игра</p>
 <p align="center"><a align="center" href="https://gerkon3.github.io/preplay-game"><img alt="Website" src="https://img.shields.io/website?label=URL&up_message=gerkon3.github.io%2Fpreplay-game&url=https%3A%2F%2Fgerkon3.github.io%2Fpreplay-game"></a></p>
 <h1>Описание</h1>
-<p>Рекламная HTML-игра в жанре "hidden objects"</p>
+<p>Рекламная HTML-игра в жанре "hidden objects".</p>
 <p>Необходимо найти все предлагаемые объекты, кликнув на каждый из них. При бездействии мыши в течении 5 секунд спрятанный объект подсвечивается.</p>
 <br>
 <h1>Используемые инструменты</h1>
